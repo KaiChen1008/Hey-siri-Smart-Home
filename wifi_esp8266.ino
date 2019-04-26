@@ -13,10 +13,10 @@ IPAddress ip;
  
 // wifi config
 char* ssid1 = "kaichen-phone";
-char* password1 = "100810081008";
+char* password1 = "*****************";
  
 char* ssid2 = "Kai-chen-link";
-char* password2 = "kai10081008";
+char* password2 = "***************";
  
 const char* HostName = "kaichenHome";
  
